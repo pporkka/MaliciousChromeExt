@@ -5,6 +5,10 @@ There exists many lists for malicious chrome extensions and this is another one 
 
 This readme contains information on the date collected and the source of the files. 
 
+Content aims to have the: Identifier of chrome extension, a name for it, downloaded amount and the type of risk.
+
+Risks at the moment: Leak, FakeAI
+
 ## Fake AI list
 Collected: 2025-02-13  
 Original source: https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/  
