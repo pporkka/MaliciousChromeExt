@@ -3,6 +3,8 @@ Malicious or suspicious Chrome Extensions for defenders.
 
 There exists many lists for malicious chrome extensions and this is another one on top of those. The main point for collecting these was that the information from original articles / research was inside MD or HTML that could not be used for automatic detection with for example DefenderXDR or Sentinel. Feel free to clone the repo. 
 
+Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL_SuspiciousChromeExtensions.kql
+
 This readme contains information on the date collected and the source of the files. 
 
 Content aims to have the: Identifier of chrome extension, a name for it, downloaded amount and the type of risk.
