@@ -1,6 +1,8 @@
 # Malicious or suspicious Chrome Extensions
 Malicious or suspicious Chrome Extensions for defenders.
 
+DISCLAIMER: I do not claim to have a comprehensive list. I do not claim to have an update-to-date list, it is updated on ad-hoc basis (this may change to become more methodological, but no guarantees). The list is provided as-is and is currently collected from public news articles. The list *may* provide a visibility to most recent larger scale campaigns abusing chrome extensions.
+
 There exists many lists for malicious chrome extensions and this is another one on top of those. The main point for collecting these was that the information from original articles / research was inside MD or HTML that could not be used for automatic detection with for example DefenderXDR or Sentinel. Feel free to clone the repo. 
 
 Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL_SuspiciousChromeExtensions.kql
@@ -14,6 +16,8 @@ Risks at the moment: Leak, FakeAI, BrowserHijack, CryptoStealer, RAT
 ## Updates
 From March 2026 onwards, the updates are available separately in "Updates" folder.
 Everything is always added to the "master" list in the "_all.csv", but it may get a bit too heavy to handle some day.
+
+Latest Updates: 2026-03-10 with 323 extensions.
 
 ## Fake AI list
 Collected: 2026-02-13  
