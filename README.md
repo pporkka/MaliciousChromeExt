@@ -7,7 +7,7 @@ There exists many lists for malicious chrome extensions and this is another one 
 DISCLAIMER: I do not claim to have a comprehensive list. I do not claim to have an update-to-date list, it is updated on ad-hoc basis (this may change to become more methodological, but no guarantees). The list is provided as-is and is currently collected from public news articles. The list *may* provide a visibility to most recent larger scale campaigns abusing chrome extensions.
 
 
-Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL\_SuspiciousChromeExtensions.kql
+Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL_SuspiciousChromeExtensions.kql
 
 This readme contains information on the date collected and the source of the files.
 
