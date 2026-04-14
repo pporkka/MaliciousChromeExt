@@ -20,7 +20,9 @@ Risks at the moment: Leak, FakeAI, BrowserHijack, CryptoStealer, RAT
 From March 2026 onwards, the updates are available separately in "Updates" folder.
 Everything is always added to the "master" list in the "\_all.csv", but it may get a bit too heavy to handle some day.
 
-Latest Updates: 2026-03-18 with 325 extensions.
+Latest Updates:  
+2026-03-18 with 325 extensions.   
+2026-04-14 with 108 extensions.  
 
 ## Fake AI list
 
@@ -35,22 +37,28 @@ Description: Contains extensions that pretend to be AI related extensions. From 
 
 Collected: 2026-02-13  
 Original source: https://github.com/qcontinuum1/spying-extensions/tree/main  
-Description: Not necessarily MALICIOUS, but suspicious extensions that leak information on varying levels. "We should note that probably not all of the browser history leaking extensions have malicious intent. ... Some of the extensions might be benign and may need collect browser history for functionallity such as 'Avast Online Security \& Privacy' for example."
+Description: Not necessarily MALICIOUS, but suspicious extensions that leak information on varying levels. "We should note that probably not all of the browser history leaking extensions have malicious intent. ... Some of the extensions might be benign and may need collect browser history for functionallity such as 'Avast Online Security \& Privacy' for example."  
 
 ## Chrome extensions march 2026 update 1
 
 Collected: 2026-03-10  
-Original source: https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html
-Description: Update contains latest malicious extensions from a public source.
+Original source: https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html  
+Description: Update contains latest malicious extensions from a public source.  
 
 ## Chrome extensions march 2026 update 2
 
 Collected: 2026-03-18  
 Original source: https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/  
-Description: Update contains latest malicious extensions from a single public source.
+Description: Update contains latest malicious extensions from a single public source.  
+
+## Chrome extensions april 2026 update 1
+
+Collected: 2026-04-14
+Original source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2  
+Description: Update contains latest malicious extensions from a single public source. Source contains also IOCs   
 
 ## ALL collections in the same file
 
-Updated: 2025-02-13  
+Updated: 2026-04-14  
 Description: All the CSV files concatenated for easy search. May end up consuming defender/sentinel/whatever capacity, so use carefully.
 
