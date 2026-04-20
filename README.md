@@ -31,6 +31,8 @@ Collected: 2026-02-13
 Updated to contain march 2026 update 2 - 2x FakeAI
 
 Original source: https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/  
+Other sources: https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/  
+Other sources: https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/  
 Description: Contains extensions that pretend to be AI related extensions. From the source: "a coordinated campaign of Chrome extensions posing as AI assistants for summarization, chat, writing, and Gmail assistance. While these tools appear legitimate on the surface, they hide a dangerous architecture: instead of implementing core functionality locally, they embed remote, server-controlled interfaces inside extension-controlled surfaces and act as privileged proxies, granting remote infrastructure access to sensitive browser capabilities."
 
 ## Chrome extensions spying
