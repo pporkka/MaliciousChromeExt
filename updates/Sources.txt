@@ -2,3 +2,6 @@ Sources
 202603a - https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html
 202603b - https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/
 202604a - https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2
+202606a - https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html
+202606a - https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html
+202606a - https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html

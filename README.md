@@ -7,7 +7,8 @@ There exists many lists for malicious chrome extensions and this is another one 
 DISCLAIMER: I do not claim to have a comprehensive list. I do not claim to have an update-to-date list, it is updated on ad-hoc basis (this may change to become more methodological, but no guarantees). The list is provided as-is and is currently collected from public news articles. The list *may* provide a visibility to most recent larger scale campaigns abusing chrome extensions.
 
 
-Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL_SuspiciousChromeExtensions.kql
+
+Detection in DefenderXDR query in here: https://github.com/pporkka/DefenderXDRQueries/blob/main/KQL\_SuspiciousChromeExtensions.kql
 
 This readme contains information on the date collected and the source of the files.
 
@@ -21,8 +22,10 @@ From March 2026 onwards, the updates are available separately in "Updates" folde
 Everything is always added to the "master" list in the "\_all.csv", but it may get a bit too heavy to handle some day.
 
 Latest Updates:  
-2026-03-18 with 325 extensions.   
-2026-04-14 with 108 extensions.  
+2026-03-18 with 325 extensions.  
+2026-04-14 with 108 extensions.
+
+2026-06-30 with 32 extensions
 
 ## Fake AI list
 
@@ -39,25 +42,42 @@ Description: Contains extensions that pretend to be AI related extensions. From 
 
 Collected: 2026-02-13  
 Original source: https://github.com/qcontinuum1/spying-extensions/tree/main  
-Description: Not necessarily MALICIOUS, but suspicious extensions that leak information on varying levels. "We should note that probably not all of the browser history leaking extensions have malicious intent. ... Some of the extensions might be benign and may need collect browser history for functionallity such as 'Avast Online Security \& Privacy' for example."  
+Description: Not necessarily MALICIOUS, but suspicious extensions that leak information on varying levels. "We should note that probably not all of the browser history leaking extensions have malicious intent. ... Some of the extensions might be benign and may need collect browser history for functionallity such as 'Avast Online Security \& Privacy' for example."
 
 ## Chrome extensions march 2026 update 1
 
 Collected: 2026-03-10  
 Original source: https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html  
-Description: Update contains latest malicious extensions from a public source.  
+Description: Update contains latest malicious extensions from a public source.
 
 ## Chrome extensions march 2026 update 2
 
 Collected: 2026-03-18  
 Original source: https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/  
-Description: Update contains latest malicious extensions from a single public source.  
+Description: Update contains latest malicious extensions from a single public source.
 
 ## Chrome extensions april 2026 update 1
 
 Collected: 2026-04-14
 Original source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2  
-Description: Update contains latest malicious extensions from a single public source. Source contains also IOCs   
+Description: Update contains latest malicious extensions from a single public source. Source contains also IOCs
+
+## Chrome extensions june 2026 update 1
+
+Collected: 2026-06-30
+Original source: 
+
+* https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html
+* https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html
+* 202606a - https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html  
+
+
+
+Description: Update contains mostly something from January, but also some latest malicious extensions from a multiple public source.
+
+
+
+
 
 ## ALL collections in the same file
 
